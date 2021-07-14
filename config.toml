@@ -1,0 +1,11 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "binario"
+
+[Params]
+  indexPager = false
+cleanDestinationDir = true
+
+  toc = true
+  twitter_cars = true
