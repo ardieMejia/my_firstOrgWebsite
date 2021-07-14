@@ -5,6 +5,7 @@ theme = "binario"
 
 [Params]
   indexPager = false
+  mainSections = ["woodworking","motorbasics","about"]
   cleanDestinationDir = true
   toc = true
   twitter_cars = true
