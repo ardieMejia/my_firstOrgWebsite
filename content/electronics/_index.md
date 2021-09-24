@@ -1,6 +1,6 @@
 +++
 title = "Electronics:"
-author = ["Wan Ahmad Ardie bin spiderman"]
+author = ["Wan Ardie Mejia"]
 draft = false
 +++
 
@@ -19,11 +19,10 @@ draft = false
 ## Transistors: {#transistors1}
 
 
-
 ### This page is about transistors {#this-page-is-about-transistors}
 
 
-###  {#}
+### We might need to practice overlay single posts with unique layout, with minimal editing of code {#we-might-need-to-practice-overlay-single-posts-with-unique-layout-with-minimal-editing-of-code}
 
 
 ### [![](/thumbs/th_3.jpg)](/3.jpg) {#img--dot-static-thumbs-th-3-dot-jpg----dot-static-3-dot-jpg}
@@ -33,7 +32,6 @@ draft = false
 
 
 ## Triacs: {#triac1}
-
 
 
 ### This page is about triacs!!!! {#this-page-is-about-triacs}

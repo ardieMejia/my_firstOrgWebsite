@@ -1,6 +1,6 @@
 +++
 title = "Triacs:"
-author = ["Wan Ahmad Ardie bin spiderman"]
+author = ["Wan Ardie Mejia"]
 tags = ["theory"]
 draft = false
 +++
