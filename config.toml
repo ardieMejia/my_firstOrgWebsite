@@ -1,7 +1,8 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
 title = "A promising attempt at publishing a website from org-mode"
-theme = "book"
+theme = "compose"
+enableEmoji=true
 
 [Params]
   indexPager = false
@@ -26,19 +27,19 @@ theme = "book"
   recent_articles = true
   categories = true
 
-# [menu]
-#   [[menu.main]]
-#     identifier = "about"
-#     name       = "About"
-#     url        = "/"
-#   [[menu.main]]
-#     identifier = "electronics"
-#     name       = "Electronics"
-#     url        = "/electronics"
-#   [[menu.main]]
-#     identifier = "motorbasics"
-#     name       = "Motorbasics"
-#     url        = "/motorbasics"
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/"
+  [[menu.main]]
+    identifier = "spacemacs"
+    name       = "Spacemacs"
+    url        = "/docs/spacemacs"
+  [[menu.main]]
+    identifier = "bash"
+    name       = "Bash"
+    url        = "/docs/bash"
 
 
 

@@ -1,0 +1,33 @@
+
+
+
+<div class="mermaid">
+    flowchart TD
+    subgraph local
+    style /.emacs.d fill:#f9f,stroke:#333,stroke-width:4px
+    home["&#x1F4C2; /home"]---/Downloads["&#x1F4C2; /Downloads"]
+    home---/Documents["&#x1F4C2; /Documents"]
+    home---/.emacs.d["&#x1F4C2; /.emacs.d"]
+    /Downloads---download1[...]
+    /Downloads---download2[...]
+    /Documents---download3[...]
+    /.emacs.d---1[someFiles]
+    /.emacs.d---2[some_files]
+    /.emacs.d---3[some-folder]
+    /.emacs.d---/layers["&#x1F4C2; /layers"]
+    /layers---5[...]
+    3---6[...]
+    end
+    subgraph Git
+    style /spacemacs fill:#f9f,stroke:#333,stroke-width:4px
+    /spacemacs["&#x1F4C2; /spacemacs"]---b1[someFiles]
+    /spacemacs-....-/.emacs.d
+    /spacemacs---b2[some_files]
+    /spacemacs---b3[some-folder]
+    /spacemacs---b/layers["&#x1F4C2; /layers"]
+    b/layers---b5[...]
+    b3---b6[...]
+    end
+</div>
+
+

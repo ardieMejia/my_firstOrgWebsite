@@ -1,5 +1,5 @@
 +++
-title = "Syntax (numbers and strings)"
+title = "1) Syntax (numbers and strings)"
 author = ["Wan Ardie Mejia"]
 draft = false
 +++

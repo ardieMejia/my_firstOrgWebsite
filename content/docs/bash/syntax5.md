@@ -1,5 +1,5 @@
 +++
-title = "Syntax (case statement, for loops, user input)"
+title = "5) Syntax (case statement, for loops, user input)"
 author = ["Wan Ardie Mejia"]
 draft = false
 +++
