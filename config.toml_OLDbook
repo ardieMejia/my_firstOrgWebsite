@@ -1,11 +1,11 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
 title = "A promising attempt at publishing a website from org-mode"
-theme = "compose"
-enableEmoji=true
+theme = "book"
 
 [Params]
   indexPager = false
+  # mainSections = ["electronics","motorbasics"]
   cleanDestinationDir = true
   toc = true
   twitter_cars = true
@@ -14,9 +14,6 @@ enableEmoji=true
   tags = ["theory","practical"]
   authorbox = true
   BookMenuBundle = "/menu"
-
-[outputs]
-  home = ["HTML", "RSS","JSON"]
 
 
 [Author] # Used in authorbox
@@ -29,19 +26,19 @@ enableEmoji=true
   recent_articles = true
   categories = true
 
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "/"
-  [[menu.main]]
-    identifier = "spacemacs"
-    name       = "Spacemacs"
-    url        = "/docs/spacemacs"
-  [[menu.main]]
-    identifier = "bash"
-    name       = "Bash"
-    url        = "/docs/bash"
+# [menu]
+#   [[menu.main]]
+#     identifier = "about"
+#     name       = "About"
+#     url        = "/"
+#   [[menu.main]]
+#     identifier = "electronics"
+#     name       = "Electronics"
+#     url        = "/electronics"
+#   [[menu.main]]
+#     identifier = "motorbasics"
+#     name       = "Motorbasics"
+#     url        = "/motorbasics"
 
 
 

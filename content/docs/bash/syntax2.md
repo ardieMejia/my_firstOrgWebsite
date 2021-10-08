@@ -1,5 +1,5 @@
 +++
-title = "Syntax (arrays)"
+title = "2) Syntax (arrays)"
 author = ["Wan Ardie Mejia"]
 draft = false
 +++

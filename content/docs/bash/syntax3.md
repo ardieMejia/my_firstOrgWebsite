@@ -1,5 +1,5 @@
 +++
-title = "Syntax (functions)"
+title = "3) Syntax (functions)"
 author = ["Wan Ardie Mejia"]
 draft = false
 +++
