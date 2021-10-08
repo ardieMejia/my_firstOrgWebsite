@@ -6,7 +6,6 @@ enableEmoji=true
 
 [Params]
   indexPager = false
-  # mainSections = ["electronics","motorbasics"]
   cleanDestinationDir = true
   toc = true
   twitter_cars = true
