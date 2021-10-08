@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
 title = "A promising attempt at publishing a website from org-mode"
-theme = "compose"
+theme = ["github.com/onweru/compose"] # edit this if you'ld rather use a fork of this repo
 enableEmoji=true
 
 [Params]
@@ -14,6 +14,9 @@ enableEmoji=true
   tags = ["theory","practical"]
   authorbox = true
   BookMenuBundle = "/menu"
+
+[outputs]
+  home = ["HTML", "RSS","JSON"]
 
 
 [Author] # Used in authorbox
