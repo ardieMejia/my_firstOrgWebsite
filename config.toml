@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://my-org-files-and-thoughts.onrender.com/"
 languageCode = "en-us"
 title = "A promising attempt at publishing a website from org-mode"
 theme = "compose"
