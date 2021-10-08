@@ -9,4 +9,4 @@
 	url = https://github.com/alex-shpak/hugo-book
 [submodule "themes/compose"]
 	path = themes/compose
-	url = git@github.com:onweru/compose
+	url = https://github.com/onweru/compose
