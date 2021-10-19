@@ -5,12 +5,12 @@ theme = "compose"
 enableEmoji=true
 
 [Params]
+  author = "Wan Ardie Mejia"
   indexPager = false
   cleanDestinationDir = true
   toc = true
   twitter_cars = true
   post_navigation = true
-  # author = ["FirstName LastName"]
   tags = ["theory","practical"]
   authorbox = true
   BookMenuBundle = "/menu"
@@ -19,9 +19,6 @@ enableEmoji=true
   home = ["HTML", "RSS","JSON"]
 
 
-[Author] # Used in authorbox
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer."
 
 
 [Params.Widgets]
