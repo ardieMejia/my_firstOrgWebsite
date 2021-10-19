@@ -1,5 +1,5 @@
 +++
-title = "Bash:"
+title = "2)Bash:"
 author = ["Wan Ardie Mejia"]
 draft = false
 +++

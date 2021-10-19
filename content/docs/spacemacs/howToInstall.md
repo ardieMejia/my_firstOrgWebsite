@@ -1,5 +1,5 @@
 +++
-title = "7) How does one go about installing Emacs/Spacemacs/Doom Emacs and what not?"
+title = "2) How does one go about installing Emacs/Spacemacs/Doom Emacs and what not?"
 author = ["Wan Ardie Mejia"]
 draft = false
 +++

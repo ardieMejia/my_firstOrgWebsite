@@ -1,15 +1,15 @@
 +++
-title = "Spacemacs:"
+title = "1)Spacemacs:"
 author = ["Wan Ardie Mejia"]
 draft = false
 +++
 
-## 6) What is Spacemacs? {#article6}
+## 1) What is Spacemacs? {#article6}
 
 -   It is a "flavour" of Emacs
 
 
-## 7) How does one go about installing Emacs/Spacemacs/Doom Emacs and what not? {#article7}
+## 2) How does one go about installing Emacs/Spacemacs/Doom Emacs and what not? {#article7}
 
 -   <https://github.com/syl20bnr/spacemacs>
     -   The only link you'll need to start using Spacemacs.

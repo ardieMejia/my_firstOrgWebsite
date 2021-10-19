@@ -1,5 +1,5 @@
 +++
-title = "6) What is Spacemacs?"
+title = "1) What is Spacemacs?"
 author = ["Wan Ardie Mejia"]
 draft = false
 +++
